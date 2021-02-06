@@ -4,4 +4,5 @@ config/settings.py
 config/__init__.py
 config/__pycache__/
 pages/__init__.py
+pages/__pycache__/
 pages/migrations/
